@@ -57,35 +57,23 @@
                     <ul class="nav navbar-nav">
                         
                         <li class=" "><a href="features.html"><span>Главная</span></a></li>
-                        <li class=" "><a href="about.html"><span>About Us</span></a></li>
-                        <li class=" "><a href="pricing.html"><span>Pricing</span></a></li>
-                        <li class=" "><a href="contact.html"><span>Contact</span></a></li>
                         <li class="dropdown">
                             <a href="#" class="dropdown-toggle" data-toggle="dropdown">
-                              Pages
+                              Услуги
                               <b class="caret"></b>
                             </a>
-                            <ul class="dropdown-menu">
-                                <li class="dropdown-header">Getting Started</li>
-                                <li class=" "><a href="components.html"><span>Components</span></a></li>
-                                <li class="divider"></li>
-                                <li class="dropdown-header">Sample Pages</li>
-                                <li class=" "><a href="portfolio.html"><span>Portfolio</span></a></li>
-                                <li class=" "><a href="portfolio-item.html"><span>Portfolio Item</span></a></li>
-                                <li class=" "><a href="help.html"><span>Help</span></a></li>
-                                <li class=" "><a href="faq.html"><span>Faq</span></a></li>
-                                <li class=" "><a href="blog.html"><span>Blog</span></a></li>
-                                <li class=" "><a href="blog-item.html"><span>Blog Page</span></a></li>
-                                <li class=" "><a href="sign-up.html"><span>Sign Up</span></a></li>
-                                <li class=" "><a href="sign-in.html"><span>Sign In</span></a></li>
-                                <li class=" "><a href="icons.html"><span>Icons</span></a></li>
-                                <li class="divider"></li>
-                                <li class="dropdown-header">Legal</li>
-                                <li class=" "><a href="privacy-policy.html"><span>Privacy Policy</span></a></li>
-                                <li class=" "><a href="terms-and-conditions.html"><span>Terms and Conditions</span></a></li>
-                                <li class=" "><a href="credits.html"><span>Theme Credits</span></a></li>
+                            <ul class="dropdown-menu">                                
+                                <li class=" "><a href="components.html"><span>Коммерческие споры</span></a></li>
+                                <li class=" "><a href="components.html"><span>Сопровождение бизнеса</span></a></li>
+                                <li class=" "><a href="components.html"><span>Проверка контрагентов</span></a></li>
+                                <li class=" "><a href="components.html"><span>Банкротство</span></a></li>
+                                <li class=" "><a href="components.html"><span>Купля-продажа бизнеса</span></a></li>
+                                <li class=" "><a href="components.html"><span>Снижение земельного налога</span></a></li>
                             </ul>
-                        </li>                       
+                        </li>                         
+                        <li class=" "><a href="about.html"><span>О компании</span></a></li>
+                        <li class=" "><a href="about.html"><span>Наши преимущества</span></a></li>
+                        <li class=" "><a href="about.html"><span>Контакты</span></a></li>
                         
                     </ul>
             </div>

@@ -59,24 +59,32 @@ left: -10000px;
         <div class="col-md-4 feature">
             <img src="images/preview/2.jpg" class="img-responsive">
             <h3>Банкротство</h3>
-            <p>Every aspect of this theme was designed to help sell your products and gain new customers.
-            </p>
+            <p>Не подходим к работе формально. Оказываем максимально качественные услуги.
+            Имеем достаточный опыт.</p>
+            <a href="#" type="button" class="btn btn-success"><b>Банкротство >></b></a>
         </div>
     
         <div class="col-md-4 feature">
             <img src="images/preview/5.jpg" class="img-responsive">
             <h3>Купля-продажа бизнеса</h3>
-            <p>A simple and clean layout makes your product stand out. It is also easy to customize, even if you aren't a designer.
-            </p>
+            <p>Комплексное сопровождение сделок по купле-продаже бизнеса на всех этапах.
+            Работаем быстро и качественно.</p>
+            <a href="#" type="button" class="btn btn-success"><b>Купля-продажа бизнеса >></b></a>
         </div>    
             
         <div class="col-md-4 feature">
             <img src="images/preview/2.jpg" class="img-responsive">
             <h3>Снижение земельного налога</h3>
-            <p>Every aspect of this theme was designed to help sell your products and gain new customers.
-            </p>
+            <p>Поможем снизить платежи на землю в 3, 5 или 10 раз. Представительство
+            ваших интересов в Арбитражном суде.</p>
+            <a href="#" type="button" class="btn btn-success"><b>Снижение земельного налога >></b></a>
         </div>
 
+    </div>
+
+    <div class="well banner">        
+        <h3 align=center>У вас есть вопросы?</h3>
+        <p align=center><strong>Готовы ответить на них по телефону +7 (343) 349-53-37!</strong></p>        
     </div>
     
 </div>

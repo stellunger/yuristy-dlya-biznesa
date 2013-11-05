@@ -10,4 +10,13 @@ class Pages extends CI_Controller {
 		$this->load->view('mainpage');
 		$this->load->view('footer');
 	}
+
+	public function show_page($page_id)
+	{
+		$data['page_title'] = 'ПРАВОВЕДОФФ';
+
+		$this->load->view('header', $data);
+		$this->load->view($page_id);
+		$this->load->view('footer');
+	}
 }
