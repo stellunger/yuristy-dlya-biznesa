@@ -39,7 +39,7 @@ left: -10000px;
             <h3>Сопровождение бизнеса</h3>
             <p>Юридическое абонентское обслуживание предприятия на постоянной основе.
             Гибкая система оплаты.</p>
-            <a href="#" type="button" class="btn btn-success"><b>Сопровождение бизнеса >></b></a>
+            <a href="<?php echo base_url(); ?>soprovogdenie-biznesa" type="button" class="btn btn-success"><b>Сопровождение бизнеса >></b></a>
         </div>
 
         <div class="col-md-4 feature">
@@ -47,7 +47,7 @@ left: -10000px;
             <h3>Проверка контрагентов</h3>
             <p>Не только формальная проверка - также проверяем судебную
             историю контрагента, кредитную историю руководителей и др.</p>
-            <a href="#" type="button" class="btn btn-success"><b>Проверка контрагентов >></b></a>
+            <a href="<?php echo base_url(); ?>proverka-kontragentov" type="button" class="btn btn-success"><b>Проверка контрагентов >></b></a>
         </div>  
 
     </div>
@@ -61,7 +61,7 @@ left: -10000px;
             <h3>Банкротство</h3>
             <p>Не подходим к работе формально. Оказываем максимально качественные услуги.
             Имеем достаточный опыт.</p>
-            <a href="#" type="button" class="btn btn-success"><b>Банкротство >></b></a>
+            <a href="<?php echo base_url(); ?>bankrotstvo" type="button" class="btn btn-success"><b>Банкротство >></b></a>
         </div>
     
         <div class="col-md-4 feature">
@@ -69,7 +69,7 @@ left: -10000px;
             <h3>Купля-продажа бизнеса</h3>
             <p>Комплексное сопровождение сделок по купле-продаже бизнеса на всех этапах.
             Работаем быстро и качественно.</p>
-            <a href="#" type="button" class="btn btn-success"><b>Купля-продажа бизнеса >></b></a>
+            <a href="<?php echo base_url(); ?>kuplya-prodaga-biznesa" type="button" class="btn btn-success"><b>Купля-продажа бизнеса >></b></a>
         </div>    
             
         <div class="col-md-4 feature">
@@ -77,7 +77,7 @@ left: -10000px;
             <h3>Снижение земельного налога</h3>
             <p>Поможем снизить платежи на землю в 3, 5 или 10 раз. Представительство
             ваших интересов в Арбитражном суде.</p>
-            <a href="#" type="button" class="btn btn-success"><b>Снижение земельного налога >></b></a>
+            <a href="<?php echo base_url(); ?>snigenie-zemelnogo-naloga" type="button" class="btn btn-success"><b>Снижение земельного налога >></b></a>
         </div>
 
     </div>
