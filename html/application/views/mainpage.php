@@ -27,7 +27,7 @@ left: -10000px;
     <div class="row">
 
         <div class="col-md-4 feature">
-            <img src="images/preview/1.jpg" class="img-responsive">
+            <img src="images/lawsuits.jpg" class="img-responsive">
             <h3>Коммерческие споры</h3>
             <p>Споры по всем видам договоров: поставки, купли-продажи, подряда,
             оказания услуг, перевозки, хранения, аренды и другим.</p>
@@ -35,7 +35,7 @@ left: -10000px;
         </div>
 
         <div class="col-md-4 feature">
-            <img src="images/preview/1.jpg" class="img-responsive">
+            <img src="images/guidance.jpg" class="img-responsive">
             <h3>Сопровождение бизнеса</h3>
             <p>Юридическое абонентское обслуживание предприятия на постоянной основе.
             Гибкая система оплаты.</p>
@@ -43,7 +43,7 @@ left: -10000px;
         </div>
 
         <div class="col-md-4 feature">
-            <img src="images/preview/5.jpg" class="img-responsive">
+            <img src="images/partners.jpg" class="img-responsive">
             <h3>Проверка контрагентов</h3>
             <p>Не только формальная проверка - также проверяем судебную
             историю контрагента, кредитную историю руководителей и др.</p>
@@ -52,12 +52,12 @@ left: -10000px;
 
     </div>
 
-    <hr />
+    <hr /><br /><br />
 
     <div class="row">
 
         <div class="col-md-4 feature">
-            <img src="images/preview/2.jpg" class="img-responsive">
+            <img src="images/bankruptcy.jpg" class="img-responsive">
             <h3>Банкротство</h3>
             <p>Не подходим к работе формально. Оказываем максимально качественные услуги.
             Имеем достаточный опыт.</p>
@@ -65,7 +65,7 @@ left: -10000px;
         </div>
     
         <div class="col-md-4 feature">
-            <img src="images/preview/5.jpg" class="img-responsive">
+            <img src="images/business.jpg" class="img-responsive">
             <h3>Купля-продажа бизнеса</h3>
             <p>Комплексное сопровождение сделок по купле-продаже бизнеса на всех этапах.
             Работаем быстро и качественно.</p>
@@ -73,7 +73,7 @@ left: -10000px;
         </div>    
             
         <div class="col-md-4 feature">
-            <img src="images/preview/2.jpg" class="img-responsive">
+            <img src="images/tax.jpg" class="img-responsive">
             <h3>Снижение земельного налога</h3>
             <p>Поможем снизить платежи на землю в 3, 5 или 10 раз. Представительство
             ваших интересов в Арбитражном суде.</p>
