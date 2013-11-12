@@ -31,7 +31,7 @@ left: -10000px;
             <h3>Коммерческие споры</h3>
             <p>Споры по всем видам договоров: поставки, купли-продажи, подряда,
             оказания услуг, перевозки, хранения, аренды и другим.</p>
-            <a href="#" type="button" class="btn btn-success"><b>Коммерческие споры >></b></a>
+            <a href="<?php echo base_url(); ?>kommercheskie-spory" type="button" class="btn btn-success"><b>Коммерческие споры >></b></a>
         </div>
 
         <div class="col-md-4 feature">
@@ -82,9 +82,6 @@ left: -10000px;
 
     </div>
 
-    <div class="well banner">        
-        <h3 align=center>У вас есть вопросы?</h3>
-        <p align=center><strong>Готовы ответить на них по телефону +7 (343) 349-53-37!</strong></p>        
-    </div>
+    <?php echo $contact_us; ?>
     
 </div>

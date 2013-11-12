@@ -51,29 +51,28 @@
                   <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
                       <i class="icon-align-justify"></i>
                   </button>
-                  <a class="navbar-brand" href="index.html">Юристы для бизнеса.рф</a>
+                  <a class="navbar-brand" href="<?php echo base_url(); ?>">Юристы для бизнеса.рф</a>
             </div>
             <div class="navbar-collapse collapse">
                     <ul class="nav navbar-nav">
                         
-                        <li class=" "><a href="features.html"><span>Главная</span></a></li>
+                        <li class=" "><a href="<?php echo base_url(); ?>"><span>Главная</span></a></li>
                         <li class="dropdown">
                             <a href="#" class="dropdown-toggle" data-toggle="dropdown">
                               Услуги
                               <b class="caret"></b>
                             </a>
                             <ul class="dropdown-menu">                                
-                                <li class=" "><a href="components.html"><span>Коммерческие споры</span></a></li>
-                                <li class=" "><a href="components.html"><span>Сопровождение бизнеса</span></a></li>
-                                <li class=" "><a href="components.html"><span>Проверка контрагентов</span></a></li>
-                                <li class=" "><a href="components.html"><span>Банкротство</span></a></li>
-                                <li class=" "><a href="components.html"><span>Купля-продажа бизнеса</span></a></li>
-                                <li class=" "><a href="components.html"><span>Снижение земельного налога</span></a></li>
+                                <li class=" "><a href="<?php echo base_url(); ?>kommercheskie-spory"><span>Коммерческие споры</span></a></li>
+                                <li class=" "><a href="<?php echo base_url(); ?>soprovogdenie-biznesa"><span>Сопровождение бизнеса</span></a></li>
+                                <li class=" "><a href="<?php echo base_url(); ?>proverka-kontragentov"><span>Проверка контрагентов</span></a></li>
+                                <li class=" "><a href="<?php echo base_url(); ?>bankrotstvo"><span>Банкротство</span></a></li>
+                                <li class=" "><a href="<?php echo base_url(); ?>kuplya-prodaga-biznesa"><span>Купля-продажа бизнеса</span></a></li>
+                                <li class=" "><a href="snigenie-zemelnogo-naloga"><span>Снижение земельного налога</span></a></li>
                             </ul>
-                        </li>                         
-                        <li class=" "><a href="about.html"><span>О компании</span></a></li>
-                        <li class=" "><a href="about.html"><span>Наши преимущества</span></a></li>
-                        <li class=" "><a href="about.html"><span>Контакты</span></a></li>
+                        </li>                                                 
+                        <li class=" "><a href="<?php echo base_url(); ?>preimushestva"><span>Наши преимущества</span></a></li>
+                        <li class=" "><a href="<?php echo base_url(); ?>contacts"><span>Контакты</span></a></li>
                         
                     </ul>
             </div>
